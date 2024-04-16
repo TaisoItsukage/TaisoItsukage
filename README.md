@@ -6,4 +6,7 @@ My favorites are Flutter and Next.js.
 [![My Skills](https://skillicons.dev/icons?i=dart,ts,html)](https://skillicons.dev)
 
 ## Frameworks and Tools
-[![My Skills](https://skillicons.dev/icons?i=flutter,nextjs,tailwind,firebase,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,nextjs,tailwind,firebase,supabase)](https://skillicons.dev)  
+
+## Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TaisoItsukage)](https://git.io/streak-stats)
