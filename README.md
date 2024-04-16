@@ -2,7 +2,7 @@
 I'm a frontend developer from Japan🇯🇵  
 My favorites are Flutter and Next.js.
 
-## Programming Languages
+## Languages
 [![My Skills](https://skillicons.dev/icons?i=dart,ts,html)](https://skillicons.dev)
 
 ## Frameworks and Tools
