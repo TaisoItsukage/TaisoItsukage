@@ -1,5 +1,5 @@
 # About Me
-- I'm a frontend developer from Japan🇯🇵  
+- I'm a frontend developer from Japan
 - I started programming in November 2019  
 - My favorite frameworks are Flutter and Next.js
 
