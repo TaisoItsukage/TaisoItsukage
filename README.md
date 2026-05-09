@@ -4,10 +4,10 @@
 - My favorite frameworks are Flutter and Next.js
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=dart,ts,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,ts,kotlin,swift,python,html,css,php)](https://skillicons.dev)
 
 ## Frameworks and Tools
-[![My Skills](https://skillicons.dev/icons?i=flutter,nextjs,tailwind,firebase,supabase)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=flutter,nextjs,unity,tailwind,materialui,firebase,supabase,mysql,postman,arduino,docker,github,gitlab,androidstudio,vscode,figma,notion)](https://skillicons.dev)  
 
 ## Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TaisoItsukage)](https://git.io/streak-stats)
