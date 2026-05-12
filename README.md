@@ -9,5 +9,5 @@
 ## Frameworks and Tools
 [![My Skills](https://skillicons.dev/icons?i=flutter,nextjs,unity,tailwind,materialui,firebase,supabase,mysql,postman,arduino,docker,github,gitlab,androidstudio,vscode,figma,notion)](https://skillicons.dev)  
 
-## Stats
+## Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TaisoItsukage)](https://git.io/streak-stats)
