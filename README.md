@@ -2,6 +2,7 @@
 - I'm a frontend developer from Japan🇯🇵
 - I started programming in November 2019  
 - My favorite frameworks are Flutter and Next.js
+- CEO of Digiprop Co., Ltd.([Website](https://www.digiprop.co.jp/))
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=ts,dart,kotlin,swift,python,html,css,php)](https://skillicons.dev)
